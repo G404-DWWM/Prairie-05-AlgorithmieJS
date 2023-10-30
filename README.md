@@ -1,9 +1,9 @@
 # Prairie-05-AlgorithmieJS
 
-# Algorithmie JS
+## Algorithmie JS
 
 
-# Résumé
+## Résumé
 
 
 
