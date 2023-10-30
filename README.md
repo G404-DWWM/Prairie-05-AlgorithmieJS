@@ -79,7 +79,7 @@ Rendez-vous sur ce repo :[ g404-dev-web/js-fizzbuzz](https://github.com/simplonc
 5/ Améliorer la fonction search de façon à ce qu'elle retourne une correspondance avec plusieurs animaux. Par exemple, si je cherche "guinea" la fonction search doit retourner ["guinea-fowl", "guinea-pig"].
 
 
-# **🔥 **Exercice Bonus
+# 🔥 Exercice Bonus
 
 CodeWars est un site d'entraînement. On vous encourage vraiment à faire des exercices sur ce site. Ils sont originaux, bien écrits, et automatiquement validés.
 
