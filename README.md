@@ -21,7 +21,7 @@ Ma présentation :[ Mon premier code - atelier initiation javascript](https://do
 
 # 📚 Théorie
 
-Lisez attentivement ce cours[ OpenClassroom](https://openclassrooms.com/en/courses/2984401-apprenez-a-coder-avec-javascript) dans son intégralité, prenez des notes sur les notions importantes.
+Lisez attentivement ce cours[ OpenClassroom](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript) dans son intégralité, prenez des notes sur les notions importantes.
 
 
 
